@@ -19,7 +19,7 @@ const Header = () => {
         <Div1>
           <Link href='/'>
             <a style={{display: 'flex', alignItems: 'center'}}>
-              @Infvyr
+              @Beau
             </a>
           </Link>
         </Div1>

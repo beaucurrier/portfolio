@@ -201,9 +201,9 @@ export const projects = [
     mainType: "react",
   },
   {
-    title: "Chat Room [Test]",
+    title: "Pupster",
     description:
-      "An interview test project that aims to verify skills in understanding the task and building UI with React.",
+      "An exersice in api calls.",
     image: "images/jpgs/React-test Chat Room Intro dark.jpg",
     imageWebp: "images/webps/React-test Chat Room Intro dark.webp",
     images: [
@@ -244,13 +244,11 @@ export const projects = [
       },
     ],
     tags: [
-      "Typescript",
-      "Jotai",
-      "SWR",
+      "JavaScript",
+      "Next.js",
+      "HTML",
       "Tailwind CSS",
-      "Headless UI",
-      "json server",
-      "React Error Boundary",
+      "CSS",
     ],
     id: 12,
     order: 88,
